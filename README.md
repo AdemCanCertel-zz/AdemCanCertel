@@ -25,5 +25,5 @@ Hi, I'm AdemCan, I am a javascript developer.
 
 <!-- Change the `github-readme-stats.AdemCan0BEY.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AdemCan0BEY&show_icons=true&theme=radical)
+![AdemCan0BEY github stats](https://github-readme-stats.vercel.app/api?username=AdemCan0BEY&show_icons=true&theme=radical)
 
