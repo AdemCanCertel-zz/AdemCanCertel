@@ -27,3 +27,4 @@ Hi, I'm AdemCan, I am a javascript developer.
 
 ![AdemCan0BEY github stats](https://github-readme-stats.vercel.app/api?username=AdemCan0BEY&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCan0BEY)](https://github.com/AdemCan0BEY/github-readme-stats)
