@@ -12,6 +12,9 @@
 
 Hi, I'm AdemCan, I am a javascript developer.
 
+### .text
+I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcancertel619).<br>
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
