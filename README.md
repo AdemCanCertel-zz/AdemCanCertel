@@ -7,7 +7,7 @@
 <br />
 <br />
 
-Hi, I'm AdemCan, I am a javascript developer.
+Hi, I'm AdemCan, I am a Front-End developer.
 
 ### .text
 I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcancertel619).<br>
