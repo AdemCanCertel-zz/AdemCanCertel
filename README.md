@@ -1,7 +1,13 @@
 ### Hi there, I'm [AdemCan!](https://ademcan.gitbook.io) 👋
 
+**My Social Accounts**
+
 <a href="https://twitter.com/Can0Bey">
   <img align="left" alt="AdemCan | Twitter" width="21px" src="https://raw.githubusercontent.com/AdemCan0BEY/AdemCan0BEY/master/assets/twitter.svg" />
+</a>
+
+<a href="https://instagram.com/">
+  <img align="left" alt="AdemCan | İnstagram" width="21px" src="image/instagram.png" />
 </a>
 
 <br />
