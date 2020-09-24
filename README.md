@@ -21,6 +21,7 @@ I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcance
 <code><img height="20" src="image/bootstrap.png"></code> 
 <code><img height="20" src="image/lavarel.png"></code> 
 <code><img height="20" src="image/react.png"></code> 
+<code><img height="20" src="image/electron.png"></code> 
 
 
 ![AdemCan0BEY github stats](https://github-readme-stats.vercel.app/api?username=AdemCan0BEY&show_icons=true&theme=radical)
