@@ -6,7 +6,7 @@
   <img align="left" alt="AdemCan | Twitter" width="21px" src="https://raw.githubusercontent.com/AdemCan0BEY/AdemCan0BEY/master/assets/twitter.svg" />
 </a>
 
-<a href="https://instagram.com/">
+<a href="https://www.instagram.com/ademcancertel_/">
   <img align="left" alt="AdemCan | İnstagram" width="21px" src="image/instagram.png" />
 </a>
 
