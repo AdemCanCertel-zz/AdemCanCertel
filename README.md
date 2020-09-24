@@ -30,6 +30,6 @@ I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcance
 <code><img height="20" src="image/electron.png"></code> 
 
 
-![AdemCan0BEY github stats](https://github-readme-stats.vercel.app/api?username=AdemCan0BEY&count_private=true)
+![AdemCan0BEY Github Stats](https://github-readme-stats.vercel.app/api?username=AdemCan0BEY&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 [![AdemCan0BEY Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCan0BEY)](https://ademcan.gitbook.io/)
