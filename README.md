@@ -1,4 +1,4 @@
-### Hi there, I'm [AdemCan!](https://ademcan.gitbook.io) 👋
+### Hi there, I'm [AdemCan!](https://tr.ademcan.cf) 👋
 
 **My Social Accounts**
 
