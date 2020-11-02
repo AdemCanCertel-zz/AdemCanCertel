@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://dev.to/ademcan/">
-  <img align="left" alt="AdemCan | İnstagram" width="21px" src="https://gist.github.com/benhalpern/eff81b17359acafd17849146549b9291" />
+  <img align="left" alt="AdemCan | İnstagram" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/dev-icon.svg" />
 </a>
 
 <br />
