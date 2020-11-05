@@ -7,11 +7,11 @@
 </a>
 
 <a href="https://www.instagram.com/ademcancertel_/">
-  <img align="left" alt="AdemCan | Linkedin" width="21px" src="image/instagram.png" />
+  <img align="left" alt="AdemCan | İnstagram" width="21px" src="image/instagram.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/ademcan-certel-24aa411b2/">
-  <img align="left" alt="AdemCan | İnstagram" width="21px" src="image/174857.png" />
+  <img align="left" alt="AdemCan | Linkedin" width="21px" src="image/174857.png" />
 </a>
 
 <a href="https://dev.to/ademcan/">
