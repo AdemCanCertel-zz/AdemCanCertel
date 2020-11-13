@@ -1,4 +1,5 @@
 ### Hi there, I'm [AdemCan!](https://tr.ademcan.cf) 
+![](https://komarev.com/ghpvc/?AdemCan0BEY=your-github-AdemCan0BEY&color=green)
 
 **My Social Accounts**
 
