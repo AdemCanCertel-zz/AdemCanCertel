@@ -42,31 +42,3 @@ I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcance
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCan0BEY&layout=compact)](https://github.com/AdemCan0BEY/github-readme-stats)
-
-
-
-
-
-
-
-
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html>
-<head>
-</head>
-<frameset cols="150,*">
-<frame name="pageindex" src="OutDocument\pg_index.htm"/>
-<frame name="contents" src="OutDocument\pg_0001.htm"/>
-</frameset>
-<noframes>
-<body>
-<p>This page uses frames, but your browser doesn't support them.</p>
-</body>
-</noframes>
-</html>
-
-
-
-
-
-
