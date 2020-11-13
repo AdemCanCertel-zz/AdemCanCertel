@@ -1,7 +1,5 @@
 ### Hi there, I'm [AdemCan!](https://tr.ademcan.cf) 
 
-![AdemCan](https://komarev.com/ghpvc/?AdemCan0BEY=your-github-AdemCan0BEY&label=PROFILE+VIEWS)
-
 **My Social Accounts**
 
 <a href="https://twitter.com/Can0Bey">
