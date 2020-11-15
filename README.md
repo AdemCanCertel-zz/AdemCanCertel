@@ -43,4 +43,4 @@ I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcance
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?AdemCan0BEY=anuraghazra&langs_count=8)](https://github.com/AdemCan0BEY/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?usanername=AdemCan0BEY&langs_count=8)](https://github.com/AdemCan0BEY/github-readme-stats)
