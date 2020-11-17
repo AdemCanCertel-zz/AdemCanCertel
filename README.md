@@ -25,7 +25,7 @@
 <br />
 <br />
 
-Hi, I'm AdemCan, I am a Front-End Web developer.
+Hi, I'm AdemCan, I am a Front-End Developer.
 
 ### .text
 I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcancertel619).<br>
