@@ -45,6 +45,5 @@ I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcance
 
 
 
-![AdemCan0BEY github stats](https://github-readme-stats.vercel.app/api?username=AdemCan0BEY&show_icons=true&theme=radical)
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AdemCan0BEY&bg_color=30,e96443,904e95&title_color=fff&text_color=fff"" alt="AdemCan0BEY" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCan0BEY&exclude_repo=github-readme-stats,AdemCan0BEY.github.io)](https://github.com/AdemCan0BEY/github-readme-stats)
