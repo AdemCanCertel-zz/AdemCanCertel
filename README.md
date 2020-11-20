@@ -1,4 +1,4 @@
-### Hi there, I'm [AdemCan!](https://tr.ademcan.cf) 
+### Hi there, I'm [AdemCan!](https://mr.ademcan.cf) 
 
 **My Social Accounts**
 
