@@ -18,9 +18,6 @@
   <img align="left" alt="AdemCan | İnstagram" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/dev-icon.svg" />
 </a>
 
-<a href="https://ademcan.hashnode.dev/">
-  <img align="left" alt="AdemCan | İnstagram" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/hashnode.png" />
-</a>
 
 <br />
 <br />
