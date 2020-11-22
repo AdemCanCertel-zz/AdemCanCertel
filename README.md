@@ -15,7 +15,11 @@
 </a>
 
 <a href="https://dev.to/ademcan/">
-  <img align="left" alt="AdemCan | İnstagram" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/dev-icon.svg" />
+  <img align="left" alt="AdemCan | Dev" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/dev-icon.svg" />
+</a>
+
+<a href="https://gitlab.com/AdemCan0BEY">
+  <img align="left" alt="AdemCan | GitLab" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/gitlab-logo-white-stacked-rgb.png" />
 </a>
 
 
