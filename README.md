@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://gitlab.com/AdemCan0BEY">
-  <img align="left" alt="AdemCan | GitLab" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/GitLab.svg" />
+  <img align="left" alt="AdemCan | GitLab" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/GitLab_Logo.png" />
 </a>
 
 
