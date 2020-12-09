@@ -37,6 +37,7 @@ Front-End Developer
 
 ### .text
 I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcancertel619).<br>
+blog sites where I am more active [@ademcan](https://dev.to/ademcan/), [@ademcan](https://ademcan.hashnode.dev/)
 
 **My Skils**  
 
