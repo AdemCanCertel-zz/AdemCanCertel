@@ -1,6 +1,6 @@
 ### Hi there, I'm [AdemCan!](https://mr.ademcan.cf) 
 
-**My Social Accounts**
+**.social**
 
 <a href="https://twitter.com/Can0Bey">
   <img align="left" alt="AdemCan | Twitter" width="21px" src="https://raw.githubusercontent.com/AdemCan0BEY/AdemCan0BEY/master/assets/twitter.svg" />
@@ -39,7 +39,7 @@ Hello, I'm AdemCan, let's introduce myself first and then talk about what I have
 I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcancertel619).<br>
 blog sites where I am more active [@ademcan](https://dev.to/ademcan/), [@ademcan](https://ademcan.hashnode.dev/)
 
-**My Skils**  
+**.skills**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
