@@ -1,8 +1,8 @@
-### Hi there, I'm [AdemCan!](https://mr.ademcan.cf) 
+### Hi there, I'm [AdemCan!](maintanance) 
 
 **.social**
 
-<a href="https://twitter.com/Can0Bey">
+<a href="https://twitter.com/AdemCan_Bey">
   <img align="left" alt="AdemCan | Twitter" width="21px" src="https://raw.githubusercontent.com/AdemCan0BEY/AdemCan0BEY/master/assets/twitter.svg" />
 </a>
 
