@@ -6,12 +6,8 @@
   <img align="left" alt="AdemCan | Twitter" width="21px" src="https://raw.githubusercontent.com/AdemCan0BEY/AdemCan0BEY/master/assets/twitter.svg" />
 </a>
 
-<a href="https://www.instagram.com/ademcancertel_/">
+<a href="https://www.instagram.com/ademcancrtl/">
   <img align="left" alt="AdemCan | İnstagram" width="21px" src="image/instagram.png" />
-</a>
-
-<a href="https://www.linkedin.com/in/ademcan-certel-24aa411b2/">
-  <img align="left" alt="AdemCan | Linkedin" width="21px" src="image/174857.png" />
 </a>
 
 <a href="https://dev.to/ademcan/">
@@ -26,9 +22,15 @@
   <img align="left" alt="AdemCan | Hashnode" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/hashnode.png" />
 </a>
 
+<a href="https://steamcommunity.com/id/ademcancertel/">
+  <img align="left" alt="AdemCan | Steam" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/Steam-Logo.png" />
+</a>
+
 <a href="https://discord.com/users/742038455256612947">
   <img align="left" alt="AdemCan | Discord" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/91_Discord_logo_logos-512.webp" />
 </a>
+
+
 
 
 
