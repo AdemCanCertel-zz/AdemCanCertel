@@ -22,10 +22,6 @@
   <img align="left" alt="AdemCan | Hashnode" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/hashnode.png" />
 </a>
 
-<a href="https://steamcommunity.com/id/ademcancertel/">
-  <img align="left" alt="AdemCan | Steam" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/Steam-Logo.png" />
-</a>
-
 <a href="https://discord.com/users/742038455256612947">
   <img align="left" alt="AdemCan | Discord" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/91_Discord_logo_logos-512.webp" />
 </a>
