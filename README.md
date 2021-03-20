@@ -14,14 +14,6 @@
   <img align="left" alt="AdemCan | Dev" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/dev-icon.svg" />
 </a>
 
-<a href="https://gitlab.com/AdemCan0BEY">
-  <img align="left" alt="AdemCan | GitLab" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/GitLab_Logo.png" />
-</a>
-
-<a href="https://ademcan.hashnode.dev/">
-  <img align="left" alt="AdemCan | Hashnode" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/hashnode.png" />
-</a>
-
 <a href="https://discord.com/users/742038455256612947">
   <img align="left" alt="AdemCan | Discord" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/91_Discord_logo_logos-512.webp" />
 </a>
@@ -39,7 +31,6 @@ Hello, I'm AdemCan, let's introduce myself first and then talk about what I have
 
 ### .text
 I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcancertel619).<br>
-blog sites where I am more active [@ademcan](https://dev.to/ademcan/), [@ademcan](https://ademcan.hashnode.dev/)
 
 **.skills**  
 
