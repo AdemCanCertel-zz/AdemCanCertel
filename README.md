@@ -10,17 +10,9 @@
   <img align="left" alt="AdemCan | İnstagram" width="21px" src="image/instagram.png" />
 </a>
 
-<a href="https://dev.to/ademcan/">
-  <img align="left" alt="AdemCan | Dev" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/dev-icon.svg" />
-</a>
-
 <a href="https://discord.com/users/742038455256612947">
   <img align="left" alt="AdemCan | Discord" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/91_Discord_logo_logos-512.webp" />
 </a>
-
-
-
-
 
 <br />
 <br />
