@@ -18,8 +18,7 @@
 <br />
 
 **.about**<br>
-Hello, I'm AdemCan, let's introduce myself first and then talk about what I have done. I live in Istanbul at the age of 17 My Front-End Developer I have been working in this business since 2018 and I have been raising my own career. I was very interested in computers at a young age, this interest started at a young age and then my interest increased more and I determined my own business.
-
+Hello, I'm AdemCan, let's introduce myself first and then talk about what I have done. I live in Istanbul at the age of 17, I am a high school student. I am a Front End developer, have been working in this business since 2018 and developing my own career.
 
 ### .text
 I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcancertel619).<br>
