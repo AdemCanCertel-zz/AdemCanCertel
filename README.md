@@ -3,7 +3,7 @@
 **.social**
 
 <a href="https://twitter.com/AdemCan_Bey">
-  <img align="left" alt="AdemCan | Twitter" width="21px" src="https://raw.githubusercontent.com/AdemCan0BEY/AdemCan0BEY/master/assets/twitter.svg" />
+  <img align="left" alt="AdemCan | Twitter" width="21px" src="https://github.com/AdemCanCertel/AdemCanCertel/blob/master/image/twitter.png" />
 </a>
 
 <a href="https://www.instagram.com/ademcancrtl/">
