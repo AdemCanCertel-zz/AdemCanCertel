@@ -38,3 +38,4 @@ I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcance
 Project Name | Activite/Deactive
 ------------ | -------------
 [Certel Software](https://github.com/Certel-Yazilim) | Maintenance
+[Brackes Bot](https://maintenance) | Maintanance
