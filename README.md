@@ -42,6 +42,6 @@ Project Name | Activite/Deactive
 
 ### GitHub Stats 
 
+
 ![AdemCanCertel GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemCanCertel&show_icons=true&theme=material-palenight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCanCertel&layout=compact)](https://github.com/AdemCanCertel/github-readme-stats)
-
