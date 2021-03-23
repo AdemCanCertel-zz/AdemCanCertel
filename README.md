@@ -32,15 +32,15 @@ I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcance
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
 <br>
-<br>
 
-
+### Projects
 Project Name | Activite/Deactive
 ------------ | -------------
 [Certel Software](https://github.com/Certel-Yazilim) | Maintenance
 
+<br>
 
-
+### GitHub Stats 
 
 ![AdemCanCertel GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemCanCertel&show_icons=true&theme=material-palenight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCanCertel&layout=compact)](https://github.com/AdemCanCertel/github-readme-stats)
