@@ -1,3 +1,6 @@
+<img src="https://media.discordapp.net/attachments/818093236173799424/824339446571728926/gg.png">
+
+
 ### Hi there, I'm [AdemCan!](maintanance) 
 
 **.social**
