@@ -1,27 +1,22 @@
-<img src="https://media.discordapp.net/attachments/818093236173799424/824339446571728926/gg.png">
-
-
-### Hi there, I'm [AdemCan!](maintanance) 
-
-**.social**
-
-<a href="https://twitter.com/AdemCan_Bey">
-  <img align="left" alt="AdemCan | Twitter" width="21px" src="https://github.com/AdemCanCertel/AdemCanCertel/blob/master/image/twitter.png" />
-</a>
-
-<a href="https://www.instagram.com/ademcancrtl/">
-  <img align="left" alt="AdemCan | İnstagram" width="21px" src="image/instagram.png" />
-</a>
-
-<a href="https://discord.com/users/742038455256612947">
-  <img align="left" alt="AdemCan | Discord" width="21px" src="https://github.com/AdemCan0BEY/AdemCan0BEY/blob/master/image/91_Discord_logo_logos-512.webp" />
-</a>
-
-<br />
-<br />
+<h2> Welcome to Profile  <img src="https://media.giphy.com/media/kycWasH7lYtMA7oPRI/giphy.gif" height="20px"></h2>
 
 **.about**<br>
-Hello, I'm AdemCan, let's introduce myself first and then talk about what I have done. I live in Istanbul at the age of 17, I am a high school student. I am a Front End developer, have been working in this business since 2018 and developing my own career.
+Hello 👋, I'm AdemCan, let's introduce myself first and then talk about what I have done. I live in Istanbul at the age of 17, I am a high school student. I am a Front End developer, have been working in this business since 2018 and developing my own career.
+
+  <a href="https://twitter.com/CertelAdemcan" target="_blank">
+   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=CertelAdemCan&style=social&url=https%3A%2F%2Ftwitter.com%2FCertelAdemcan">
+  </a>
+  
+  <a href="https://steamcommunity.com/id/ademcancertel" target="_blank">
+    <img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white"/>
+  </a>
+  
+   <a href="https://discord.gg/bDrbjVKSwv" target="_blank">
+     <img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
+   </a>
+
+<br/>
+<br/>
 
 ### .text
 I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcancertel619).<br>
