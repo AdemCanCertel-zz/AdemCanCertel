@@ -3,10 +3,10 @@
 **.about**<br>
 Hello 👋, I'm AdemCan, let's introduce myself first and then talk about what I have done. I live in Istanbul at the age of 17, I am a high school student. I am a Front End developer, have been working in this business since 2018 and developing my own career.
 
-  <a href="https://twitter.com/CertelAdemcan" target="_blank">
-   <img alt="Twitter URL" src="https://img.shields.io/twitter/url?label=CertelAdemCan&style=social&url=https%3A%2F%2Ftwitter.com%2FCertelAdemcan">
+  <a href="https://twitter.com/CertelAdemCan" target="_blank">
+    <img align="center" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   </a>
-  
+
   <a href="https://steamcommunity.com/id/ademcancertel" target="_blank">
     <img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white"/>
   </a>
