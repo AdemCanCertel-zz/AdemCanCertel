@@ -31,13 +31,6 @@ I rarely write on my Medium is [@ademcancertel619](https://medium.com/@ademcance
 
 <br>
 
-### Projects
-Project Name | Activite/Deactive
------------- | -------------
-[Certel Software](https://github.com/Certel-Yazilim) | Maintenance
-
-<br>
-
 ### GitHub Stats 
 
 
