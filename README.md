@@ -10,7 +10,7 @@ Hi, I'm AdemCan, let's introduce myself first and then talk about what I have do
     <img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white"/>
   </a>
   
-   <a href="https://discord.gg/bDrbjVKSwv" target="_blank">
+   <a href="https://discord.com/channels/793578611356729388/826869210763362345" target="_blank">
      <img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
    </a>
 
