@@ -22,5 +22,5 @@ Hi, I'm AdemCan, let's introduce myself first and then talk about what I have do
 <br>
 
 ### GitHub Stats 
-![AdemCanCertel GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemCanCertel&show_icons=true&theme=material-palenight)
+![AdemCanCertel GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemCanCertel&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCanCertel&layout=compact)](https://github.com/AdemCanCertel/github-readme-stats)
