@@ -1,6 +1,6 @@
 <h2> Welcome to Profile</h2>
 
-Hello, I'm AdemCan, let's introduce myself first and then talk about what I have done. 17 years old Turkey / I live in Istanbul, high school student. I am a <b>junior front end</b> developer, have been working in this business since 2018 and developing. My own career And I'm interested in <b>History</b>.
+Hello, I'm AdemCan, 17 years old and I am a high school student. it is also <b>"My Front-End Developer"</b>
 
   <a href="https://twitter.com/CertelAdemCan" target="_blank">
     <img align="center" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
