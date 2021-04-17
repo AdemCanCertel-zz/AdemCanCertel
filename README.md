@@ -14,10 +14,6 @@ Hello, I'm AdemCan, 17 years old and I am a high school student. it is also <b>"
      <img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
    </a>
 
-   <a href="https://instagram.com/ademcan_dev/" target="_blank">
-       <img align="center" alt="İnstagram" src="https://github.com/AdemCanCertel/AdemCanCertel/blob/master/image/instagram.png"/>
-   </a>
-
 
 <br/>
 <br/>
