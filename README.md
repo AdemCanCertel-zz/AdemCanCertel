@@ -14,7 +14,7 @@
      <img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
    </a>
 
-  <a href="https://www.instagram.com/ademcan_dev/" target="_blank">
+  <a href="https://www.instagram.com/ademcancertel_/" target="_blank">
      <img align="center" alt="İnstagram" src="https://img.shields.io/badge/-İnstagram-AC358D?style=flat-square&logo=instagram&logoColor=ping"/>
    </a>
 
