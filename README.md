@@ -27,6 +27,7 @@
 <br>
 
 ### GitHub Stats 
-![AdemCanCertel GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemCanCertel&show_icons=true&theme=graywhite)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCanCertel&layout=compact&theme=graywhite)](https://github.com/AdemCanCertel/github-readme-stats)
-
+<a href="https://github.com/AdemCanCertel">
+  <img src="https://github-readme-stats.vercel.app/api?username=AdemCanCertel&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=65d349&text_color=65d349&icon_color=65d349">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCanCertel&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=65d349">
+</a>
