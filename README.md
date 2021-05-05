@@ -27,7 +27,6 @@ Hi👋, I am a high school student in Turkey🇹🇷. İ live and i am a young d
 <br>
 
 ### GitHub Stats 
-<a href="https://github.com/AdemCanCertel">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdemCanCertel&count_private=true&hide_border=true&show_icons=true&include_all_commits=true&bg_color=0d1117&title_color=65d349&text_color=65d349&icon_color=65d349">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCanCertel&layout=compact&theme=nord&hide_border=true&bg_color=0d1117&border_radius=6&title_color=65d349">
-</a>
+![AdemCanCertel GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemCanCertel&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCanCertel&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
