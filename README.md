@@ -1,6 +1,6 @@
 ### Welcome to Profile 
 
-Hi👋, I am a high school student in Turkey🇹🇷. İ live and i am a young developer and work as a front end developer.. it is also A passionate Front End Developer 🚀
+Hello, I'm a high school student in Turkey🇹🇷. working as a young developer and front end developer .. also a passionate Front End Developer 🚀
 
   <a href="https://twitter.com/CertelAdemCan" target="_blank">
     <img align="center" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
