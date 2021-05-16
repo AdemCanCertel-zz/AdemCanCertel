@@ -29,5 +29,5 @@ Hello, I'm a high school student in Turkey. I work as a young developer and fron
 ### GitHub Stats
 <div style="display: inline;">
   <img src="https://github-readme-stats.vercel.app/api?username=ademcancertel&theme=dark&show_icons=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademcancertel&layout=compact>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ademcancertel&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=151515&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
 </div>
