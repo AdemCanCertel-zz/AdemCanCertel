@@ -1,4 +1,4 @@
-### Welcome to Profile 
+# Welcome to Profile 
 
 Hello, I'm a high school student in Turkey. I work as a young developer and front end developer and also a passionate Front End Developer 🚀
 
