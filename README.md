@@ -15,15 +15,25 @@ Hello, I'm a high school student in Turkey. I work as a young developer and fron
    </a>
 
   <a href="https://www.instagram.com/ademcancertel_/" target="_blank">
-     <img align="center" alt="İnstagram" src="https://img.shields.io/badge/-İnstagram-AC358D?style=flat-square&logo=instagram&logoColor=ping"/>
+     <img align="center" alt="İnstagram" src="https://img.shields.io/badge/-İnstagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
    </a>
 
+   <a href="https://gitlab.com/AdemCan0BEY" target="_blank">
+     <img align="center" alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white&style=flat-square"/>
+   </a>
+   
+   <a href="https://www.linkedin.com/in/ademcancertel/" target="_blank">
+     <img align="center" alt="GitLab" src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat-square"/>
+   </a>
 
-<br/>
-<br/>
+  <a href="https://dev.to/ademcan" target="_blank">
+     <img align="center" alt="GitLab" src="https://img.shields.io/badge/-devto-0A0A0A?logo=devto&logoColor=white&style=flat-square"/>
+   </a>
+
+<br><br>
 
 **Technologies I use my skills.**  
-<img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white" />  <img alt="Vue" align="center" src="https://img.shields.io/badge/-Vue-384960?style=flat-square&logo=vue.js&logoColor=white" /> <img alt="Sass" align="center" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />  <img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  <img alt="Nodejs" align="center" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+<img alt="JavaScript" align="center" src="https://img.shields.io/badge/-Javascript-edb200?style=flat-square&logo=javascript&logoColor=white" />  <img alt="Vue" align="center" src="https://img.shields.io/badge/-Vue-384960?style=flat-square&logo=vue.js&logoColor=white" /> <img alt="Sass" align="center" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />  <img alt="html5" align="center" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  <img alt="Nodejs" align="center" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> <img alt="React.JS" align="center" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat-square" /> <img alt="Figma" align="center" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square" />
 <br>
 
 ### GitHub Stats
