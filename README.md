@@ -18,18 +18,6 @@ Hello, I'm a high school student in Turkey. I work as a young developer and fron
      <img align="center" alt="İnstagram" src="https://img.shields.io/badge/-İnstagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
    </a>
 
-   <a href="https://gitlab.com/AdemCan0BEY" target="_blank">
-     <img align="center" alt="GitLab" src="https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab&logoColor=white&style=flat-square"/>
-   </a>
-   
-   <a href="https://www.linkedin.com/in/ademcancertel/" target="_blank">
-     <img align="center" alt="GitLab" src="https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat-square"/>
-   </a>
-
-  <a href="https://dev.to/ademcan" target="_blank">
-     <img align="center" alt="GitLab" src="https://img.shields.io/badge/-devto-0A0A0A?logo=devto&logoColor=white&style=flat-square"/>
-   </a>
-
 <br><br>
 
 **Technologies I use my skills.**  
