@@ -10,7 +10,7 @@ Hello, I'm a high school student in Turkey. I work as a young developer and fron
     <img align="center" alt="Steam" src="https://img.shields.io/badge/-Steam-171a21?style=flat-square&logo=steam&logoColor=white"/>
   </a>
   
-   <a href="https://discord.com/users/698919263985205269" target="_blank">
+   <a href="https://discord.gg/dwgkB4hua2" target="_blank">
      <img align="center" alt="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
    </a>
 
