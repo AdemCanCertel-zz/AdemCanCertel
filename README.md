@@ -6,6 +6,4 @@
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/CertelAdemcan"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=CertelAdemcan&amp;layout=wide" alt="github-readme-twitter"></a></p>
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=AdemCanCertel&amp;show_icons=true&theme=vue-dark" alt="GitHub Stats"></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCanCertel&layout=compact&theme=vue-dark"</p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=AdemCanCertel&amp;show_icons=true&theme=vue-dark" alt="GitHub Stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCanCertel&layout=compact&theme=vue-dark"/></p>
