@@ -8,5 +8,5 @@ Platforms where you can follow me;
 - 📑 [Blog](https://ademcancerteldev.medium.com)
 - 🎮 [Steam](https://steamcommunity.com/id/ademcancertel/)
 
-### Metrics
+### 📈 Metrics
 ![Metrics](https://metrics.lecoq.io/AdemCanCertel?template=classic&config.timezone=Europe%2FIstanbul)
