@@ -6,7 +6,6 @@ Welcome to my Github profile. My name is AdemCan and I am a FrontEnd Developer. 
 Platforms where you can follow me;
 - 🐦 [Twitter](https://twitter.com/CertelAdemcan)
 - 📑 [Blog](https://ademcancerteldev.medium.com)
-- 🎮 [Steam](https://steamcommunity.com/id/ademcancertel/)
 
 ### 📈 Metrics
 ![Metrics](https://metrics.lecoq.io/AdemCanCertel?template=classic&config.timezone=Europe%2FIstanbul)
