@@ -4,11 +4,11 @@ Hi, I am AdemCan Certel 17 years old high school student in Turkey from 2017 I a
 ✨ Also: I love reading books, playing games, playing chess...
 
 <h2>Contant 💻</h2>
-  <a target="_blank" href="https://www.linkedin.com/in/alexandresanlim/">
+  <a target="_blank" href="https://linkedin.com/in/ademcancertel">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a target="_blank" href="">
+  <a target="_blank" href="https://www.facebook.com/ademcancertel/">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 
