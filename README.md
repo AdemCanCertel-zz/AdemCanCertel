@@ -1,5 +1,7 @@
 <h1>Hi, there 👋</h1>
-Hi, I am AdemCan Certel 17 years old high school student in Turkey from 2017 I am doing the site with web technologies. I'm mostly focused on JavaScript, doing web projects through JavaScript. I'm learning TypeScript now. /✨ Also: I love reading books, playing games, playing chess.../
+Hi, I am AdemCan Certel 17 years old high school student in Turkey from 2017 I am doing the site with web technologies. I'm mostly focused on JavaScript, doing web projects through JavaScript. I'm learning TypeScript now. 
+
+✨ Also: I love reading books, playing games, playing chess...
 
 <h2>Contant 💻</h2>
   <a target="_blank" href="https://www.linkedin.com/in/alexandresanlim/">
@@ -43,10 +45,10 @@ Hi, I am AdemCan Certel 17 years old high school student in Turkey from 2017 I a
    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
    <img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white"/>
    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
- </div>
  <h3>Design</h3>
    <img src="ttps://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
    <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+ </div>
 
 ![AdemCanCertel GitHub stats](https://github-readme-stats.vercel.app/api?username=AdemCanCertel&theme=dark&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdemCanCertel&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
