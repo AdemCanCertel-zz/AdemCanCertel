@@ -1,4 +1,4 @@
-<h1>Hi, there 👋</h1>
+<h1>Welcome to my GitHub profile 👋</h1>
 Hi, I am AdemCan Certel 17 years old high school student in Turkey from 2017 I am doing the site with web technologies. I'm mostly focused on JavaScript, doing web projects through JavaScript. I'm learning TypeScript now. 
 
 <a href="https://twitter.com/CertelAdemCan" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
